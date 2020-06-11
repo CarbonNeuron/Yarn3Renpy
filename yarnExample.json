@@ -1,0 +1,52 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Bruh [[Answer:a|a]] [[Answer:b|b]]\n",
+		"position": {
+			"x": 771,
+			"y": 199
+		},
+		"colorID": 8
+	},
+	{
+		"title": "a",
+		"tags": "",
+		"body": "indeed a bruh moment [[Answer:c|c]] [[Answer:Node|fffdsfsd]]\n",
+		"position": {
+			"x": 377,
+			"y": 468
+		},
+		"colorID": 0
+	},
+	{
+		"title": "b",
+		"tags": "",
+		"body": "not a bruh moment\n",
+		"position": {
+			"x": 1145,
+			"y": 497
+		},
+		"colorID": 0
+	},
+	{
+		"title": "c",
+		"tags": "",
+		"body": "ok cool\n",
+		"position": {
+			"x": 63,
+			"y": 751
+		},
+		"colorID": 0
+	},
+	{
+		"title": "fffdsfsd",
+		"tags": "",
+		"body": "a e a s\n",
+		"position": {
+			"x": 607,
+			"y": 769
+		},
+		"colorID": 0
+	}
+]

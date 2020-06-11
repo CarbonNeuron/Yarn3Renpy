@@ -1,0 +1,23 @@
+label Start:
+    menu:
+        "Bruh"
+        "a":
+            jump a
+        "b":
+            jump b
+label a:
+    menu:
+        "indeed a bruh moment"
+        "c":
+            jump c
+        "Node":
+            jump fffdsfsd
+label b:
+    "not a bruh moment"
+    return
+label c:
+    "ok cool"
+    return
+label fffdsfsd:
+    "a e a s"
+    return
